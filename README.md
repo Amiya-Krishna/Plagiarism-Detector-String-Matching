@@ -218,7 +218,9 @@ Documents become term-frequency vectors. `cos(θ) = dot(A,B) / (‖A‖ × ‖B�
 ## 👤 Author
 
 **Amiya Krishna Chaurasiya** — DSA Course Project  
+
 GitHub: [@Amiya-Krishna](https://github.com/Amiya-Krishna)
+
 LinkedIn: [@Amiya Krishna](www.linkedin.com/in/amiya-krishna)
 ---
 
