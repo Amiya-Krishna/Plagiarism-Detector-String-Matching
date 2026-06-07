@@ -1,18 +1,5 @@
 # 🔍 PlagiaScope — Plagiarism Detector Using String Matching Algorithms
 
-<p align="center">
-  <img src="images/banner.png" alt="PlagiaScope Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Algorithms-KMP%20%7C%20Rabin--Karp-purple" />
-  <img src="https://img.shields.io/badge/Similarity-Jaccard%20%7C%20Cosine-teal" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
-
----
-
 ## 📌 Problem Statement
 
 Plagiarism is a major challenge in academia, publishing, and content creation. Manual comparison of documents is slow, error-prone, and impossible at scale. This project builds a **multi-algorithm plagiarism detection pipeline** using classical DSA concepts to detect exact copies, near-duplicates, and paraphrased content.
